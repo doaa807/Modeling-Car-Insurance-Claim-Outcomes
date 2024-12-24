@@ -23,7 +23,7 @@ The dataset used in this project is `car_insurance.csv`, which includes informat
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/doaa807/Modeling-Car-Insurance-Claim-Outcomes.git
    ```
 2. Ensure Jupyter Notebook is installed for running `.ipynb` files.
 
